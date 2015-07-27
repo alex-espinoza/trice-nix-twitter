@@ -1,6 +1,4 @@
 require 'open-uri'
-require 'mechanize'
-require 'pry'
 
 class Trice
   #match /^(.+)[\?]$/, sent_to_me: true do |matchers, message|
